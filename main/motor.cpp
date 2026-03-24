@@ -1,10 +1,8 @@
 #include "include.h"
-#include <PID_v1.h>
 
 bool rev1, rev2, rev3, rev4;
 double M1PWMOUT, M2PWMOUT, M3PWMOUT, M4PWMOUT;//motor output
 double in1, in2, in3, in4, M1S, M2S, M3S, M4S;//motor input
-double Kp = 0.6, Ki = 0, Kd = 0; //PID
 struct motor
 {
   int in1;

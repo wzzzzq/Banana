@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Arduino IDE
+*.elf
+*.hex
+*.bin
+*.map
+build/
+.build/
+
+# IDE files
+.vscode/
+*.code-workspace
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
