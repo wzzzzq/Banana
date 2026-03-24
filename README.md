@@ -2,6 +2,10 @@
 
 基于 Arduino 的四轮麦克纳姆轮全向移动底盘 + 6自由度机械臂遥控机器人。
 
+![Banana_Bot 实物图](images/banana_bot.jpg)
+
+![Banana_Bot 运行演示](images/banana_bot_demo.gif)
+
 ## 项目简介
 
 Banana_Bot 是一台面向机械赛的遥控机器人，具备全向移动和物体抓取能力。整车由两块 Arduino 分别控制底盘和机械臂，通过串口通信协调工作，操作员使用 SBUS 遥控器进行控制。
