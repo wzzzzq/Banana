@@ -2,8 +2,6 @@
 
 基于 Arduino 的四轮麦克纳姆轮全向移动底盘 + 6自由度机械臂遥控机器人。
 
-![Banana_Bot 实物图](images/banana_bot.jpg)
-
 ![Banana_Bot 运行演示](images/banana_bot_demo.gif)
 
 ## 项目简介
